@@ -1,7 +1,7 @@
 //resource group name variable
 variable "resource_group_name" {
   description = "Name of resource group"
-  default     = "my-resource-group"
+  default     = "tf-test"
 }
 
 //resource group location variable
